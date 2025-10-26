@@ -51,3 +51,4 @@ This project performs an **Exploratory Data Analysis (EDA)** on coffee vending m
 The analysis highlights actionable insights for improving coffee vending performance. By aligning restocking schedules and promotions with demand trends, businesses can boost efficiency and sales.
 Future work may include predictive modeling using regression to forecast demand.
 
+![alt image](https://github.com/smdafreed9949-commits/Coffee-sales-data/blob/424a159a07645dea70831aca058ba6022d0e483e/WhatsApp%20Image%202025-10-23%20at%2015.27.29_ae27ab25.jpg)
